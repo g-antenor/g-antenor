@@ -1,16 +1,22 @@
-## Hi there 👋
+# (🤠) NiomeV2 
+<p> Development student </br>
+<em>Systems Analysis and Development at <a href="https://www.cruzeirodosul.edu.br/">Cruzeiro do Sul</a></em></br>
+🟪🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜⬜⬜⬜⬜ (60%)
+<br>
 
-<!--
-**g-antenor/g-antenor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g-antenor&layout=compact&bg_color=212830&title_color=df6d74&text_color=8a919a&border_color=212830)
 
-Here are some ideas to get you started:
+>Make a scripts <span style="color: #FF6F00">FiveM</span> for Study nd Hobby.
+<a href="https://ko-fi.com/niomev2" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+___
+### ✨ Highlight Projects
+
+<a href="https://github.com/g-antenor/DA-RNN">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=g-antenor&repo=nv-moneyWash&show_icons=true&line_height=27&title_color=df6d74&text_color=8a919a&icon_color=df6d74&bg_color=22272e&border_color=212830" alt="DA-RNN" />
+</a>
+
+<a href="https://github.com/g-antenor/crnn-pytorch">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=g-antenor&repo=nv-payment&show_icons=true&line_height=27&title_color=df6d74&text_color=8a919a&icon_color=df6d74&bg_color=22272e&border_color=212830" alt="crnn-pytorch" />
+</a>

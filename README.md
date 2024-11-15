@@ -12,7 +12,7 @@ o { color: #FF6F00 }
 
 <br>
 
->Make a scripts <span style="color:blue"><strong>FiveM</strong><span> for Study nd Hobby. </br>
+>Make a scripts <span style="color:blue"><strong>FiveM</strong></span> for Study nd Hobby. </br>
 <a href="https://ko-fi.com/niomev2" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 <br>

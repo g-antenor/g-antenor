@@ -6,10 +6,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g-antenor&layout=compact&bg_color=212830&title_color=df6d74&text_color=8a919a&border_color=212830)
 
-<span>
 >Make a scripts <a style="color: #FF6F00">FiveM</a> for Study nd Hobby. </br>
 <a href="https://ko-fi.com/niomev2" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-</span>
 
 ___
 ### ✨ Highlight Projects

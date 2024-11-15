@@ -8,7 +8,7 @@
 
 <br>
 
->Make a scripts <strong>FiveM</strong> for Study nd Hobby. </br>
+>Make a scripts <strong>FiveM</strong> for Study and Hobby. </br>
 <a href="https://ko-fi.com/niomev2" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 <br>

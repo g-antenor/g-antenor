@@ -1,3 +1,7 @@
+<style>
+r { color: #df6d74 }
+o { color: #FF6F00 }
+</style>
 # (🤠) NiomeV2 
 <p> Development student </br>
 <em>Systems Analysis and Development at <a href="https://www.cruzeirodosul.edu.br/">Cruzeiro do Sul</a></em></br>
@@ -8,7 +12,7 @@
 
 <br>
 
->Make a scripts <strong>FiveM</strong> for Study nd Hobby. </br>
+>Make a scripts <strong><o>FiveM</o></strong> for Study nd Hobby. </br>
 <a href="https://ko-fi.com/niomev2" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 <br>

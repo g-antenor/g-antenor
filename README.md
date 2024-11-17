@@ -4,7 +4,7 @@
 🟪🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜⬜⬜⬜⬜ (60%)
 </p>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g-antenor&layout=compact&bg_color=212830&title_color=df6d74&text_color=8a919a&border_color=212830)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g-antenor&layout=compact&bg_color=212830&border_color=212830&text_color=8a919a&title_color=df6d74)
 
 <br>
 

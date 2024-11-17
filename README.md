@@ -1,16 +1,19 @@
-## Hi there 👋
+# (🤠) NiomeV2 
+<p> Development student </br>
+<em>Systems Analysis and Development at <a href="https://www.cruzeirodosul.edu.br/">Cruzeiro do Sul</a></em></br>
+🟪🟪🟪🟪🟪🟪🟪🟪🟪⬜⬜⬜⬜⬜⬜ (60%)
+</p>
 
-<!--
-**g-antenor/g-antenor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g-antenor&layout=compact&bg_color=212830&title_color=df6d74&text_color=8a919a&border_color=212830)
 
-Here are some ideas to get you started:
+<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+>Make a scripts <strong>FiveM</strong> for Study and Hobby. </br>
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D81650V6)
+
+<br>
+
+### ✨ Highlight Projects
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=g-antenor&repo=nv-moneyWash&title_color=df6d74&text_color=8a919a&icon_color=df6d74&bg_color=212830&border_color=212830)](https://github.com/g-antenor/nv-moneyWash)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=g-antenor&repo=nv-payment&title_color=df6d74&text_color=8a919a&icon_color=df6d74&bg_color=212830&border_color=212830)](https://github.com/g-antenor/nv-payment)

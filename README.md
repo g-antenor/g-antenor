@@ -16,4 +16,3 @@
 ### ✨ Highlight Projects
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=g-antenor&repo=nv-moneyWash&title_color=df6d74&text_color=8a919a&icon_color=df6d74&bg_color=212830&border_color=212830)](https://github.com/g-antenor/nv-moneyWash)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=g-antenor&repo=nv-payment&title_color=df6d74&text_color=8a919a&icon_color=df6d74&bg_color=212830&border_color=212830)](https://github.com/g-antenor/nv-payment)

@@ -6,10 +6,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=g-antenor&layout=compact&bg_color=212830&border_color=212830&text_color=8a919a&title_color=df6d74)
 
-<br>
-
->Make a scripts <strong>FiveM</strong> for Study and Hobby. </br>
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D81650V6)
 
 <br>
 
